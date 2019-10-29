@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+  <parameter name="Location" value="Hyderabad"></parameter>
+   <parameter name="Designer" value="Akshay"></parameter>
+    <classes>
+      <class name="Drivers.parameter"/>
+     
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
